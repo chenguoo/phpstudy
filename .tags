@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+__construct	.\demo.class.php	/^	public function __construct() {$/;"	f
+__destruct	.\demo.class.php	/^	function __destruct() {$/;"	f
+b	.\while.php	/^ $b =2;$/;"	v
+checkNum	.\exceptionTest.php	/^function checkNum($number) {$/;"	f
+demo	.\demo.class.php	/^class demo {$/;"	c
+i	.\while.php	/^ $i=1;$/;"	v
+name	.\post.php	/^$name = $_POST['fname'];$/;"	v
+test	.\foreach.php	/^function test() {$/;"	f
+with	.\exceptionTest.php	/^\/\/create function with an exception$/;"	f
+x	.\foreach.php	/^$x = array("one", "two", "three");$/;"	v
